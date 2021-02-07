@@ -1,3 +1,6 @@
+https://github.com/Abbyfade/SCA/tree/master/StockPricePrediction
+https://medium.com/@abiolafadeyi10/time-series-forecasting-predicting-stock-prices-using-python-87df91e1fe89
+
 # SCA
 IMPORT MODULES;
 Modular programming refers to the process of breaking a large, unwieldy programming task into separate, smaller, more manageable subtasks or modules. 
